@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I'm Elodie
 
-<!--
-**ElodieFotso/ElodieFotso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year student in the Bachelor of Information Technology, Network Technology program (Algonquin College / Carleton University joint program), based in Ottawa, Canada.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Networking fundamentals: OSI and TCP/IP models, Ethernet, IP addressing
+- Subnetting and VLSM design
+- Configuring routers and switches in Cisco Packet Tracer
+- Computer hardware: building, testing, and troubleshooting PCs, including power supply testing with a multimeter
+- Virtual machines and application benchmarking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Course projects
+- Packet Tracer lab series: designing and configuring small networks, IP addressing plans, and device configuration
+- PC hardware labs: full system teardown and rebuild, power supply voltage testing, component identification
+- Network troubleshooting exercises using ICMP and IPv4 addressing
+
+## Background
+Before IT, I trained as a law clerk and worked in customer service and legal support roles, so I bring documentation, triage, and confidentiality habits to technical work. I am bilingual in English and French.
+
+## Currently
+Building hands-on networking skills beyond the classroom and preparing for industry certifications.
+
+Thank you, for reading me 😊😊
